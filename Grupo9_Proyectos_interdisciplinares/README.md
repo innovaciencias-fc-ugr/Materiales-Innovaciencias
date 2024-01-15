@@ -4,15 +4,7 @@ Proyecto de Innovación y Buenas Prácticas Docentes Avanzados/Coordinados 2022-
 * [Desarrollo de proyectos Interdisciplinares en Ciencias (2022-2023)](https://cemed.ugr.es/curso/22gr55/)
 * [Desarrollo de proyectos Interdisciplinares en Ciencias (II ed.) (2023-2024)](https://cemed.ugr.es/curso/23gr48/)
 
-Información detallada sobre el poyecto en la web: 
-
-<a href="https://interciencias.ugr.es/" style="padding: 1em; background-color: LightGrey; display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 20%;
-  text-align:center;
-  ">interciencias.ugr.es
-</a>
+Información detallada sobre el proyecto en la web: [interciencias.ugr.es](https://interciencias.ugr.es/)
 
 ## ¿En qué consisten los proyectos interdisciplinares?
 
@@ -32,10 +24,4 @@ Finalmente, este curso ayudará también a:
 * Iniciar colaboraciones entre las distintas áreas de conocimiento en la Facultad de Ciencias.
 * Desarrollar dinámicas de estudio diferentes que tratan de reducir la brecha de género en las carreras STEM.
 
-<a href="https://interciencias.ugr.es/" style="padding: 1em; background-color: LightGrey; display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-  text-align:center;
-  ">Para más información visita nuestra web
-</a>
+[Para más información visita nuestra web]("https://interciencias.ugr.es/)
