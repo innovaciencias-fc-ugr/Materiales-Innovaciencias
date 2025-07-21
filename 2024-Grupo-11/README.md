@@ -20,4 +20,3 @@
 | 13:30 a 13:50 | Adriana Parra | Desarrollo de una actividad teórico-práctica de Ingeniería Ambiental: desde la radiación UV hacia la potencial utilización de la luz solar |
 | 13:50 a 14:10 | Francisco Torralbo Torralbo | [Integración de herramientas de IA generativas en la docencia universitaria: Mejorando la experiencia de aprendizaje en estudios de grado](PID-ChatGPT.pdf) |
 
-Las presentaciones tendrán una duración de 15 minutos con 5 minutos para preguntas. 
