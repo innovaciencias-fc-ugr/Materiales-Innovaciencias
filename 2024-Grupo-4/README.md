@@ -1,4 +1,4 @@
-**Buenas prácticas para TFGs y TFMs**
+## Buenas prácticas para TFGs y TFMs
 
 -   Tener en cuenta **la opinión del alumno** (también durante el
     planteamiento y desarrollo). Para ello es muy interesante que el
