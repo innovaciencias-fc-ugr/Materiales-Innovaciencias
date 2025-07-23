@@ -146,5 +146,3 @@ Se ha generado una [guía](Protocolo_acoso_identidad_orientacion_sexual.md) para
 - [Programa de intervención social hacia estudiantes con discapacidad o NEAE](https://ve.ugr.es/servicios/atencion-social/estudiantes-con-discapacidad)
 - [Enlace para realizar solicitud como estudiante NEE/NEAE]( https://sede.ugr.es/procs/Asistencia-estudiantil-Apoyos-y-adaptaciones-para-estudiantes-con-discapacidad-NEAE/)
 
-
-### Temática 7: Formación versus empatía
