@@ -2,3 +2,5 @@
 
 - [Presentación](20250304_Presentación_UsoyaplicacionesdeChatGPTendocencia_JoséLópezMolina.pdf) sobre Usos y Aplicaciones de
 ChatGPT en Docencia, de José López Molina.
+
+- [Presentación](20250401_Presentación_MisestudIAntesusanIA_RafaelVázquezConejo.pdf) *Mis estudIAntes usan IA*, de Rafael Vázquez Conejo
