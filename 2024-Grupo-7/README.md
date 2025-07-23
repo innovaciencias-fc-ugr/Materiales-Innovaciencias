@@ -62,26 +62,26 @@ https://www.lecturafacil.net/es/
 
 #### Enlaces
 
-**Diseño Universal de Aprendizaje**: https://www.recursosdua.com/
+- **Diseño Universal de Aprendizaje**: https://www.recursosdua.com/
 
-**Dislexia friendly style guide**: [https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide)
+- **Dislexia friendly style guide**: [https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide)
 
-**OpenDislexia**: [https://opendyslexic.org/](https://opendyslexic.org/) 
+- **OpenDislexia**: [https://opendyslexic.org/](https://opendyslexic.org/) 
 
-**Accessible graphics repository**: [https://agrepository.github.io/](https://agrepository.github.io/)
+- **Accessible graphics repository**: [https://agrepository.github.io/](https://agrepository.github.io/)
 
-**Laboratorio S. Polin**: [http://www.integr-abile.unito.it/](http://www.integr-abile.unito.it/)
+- **Laboratorio S. Polin**: [http://www.integr-abile.unito.it/](http://www.integr-abile.unito.it/)
 
 - [Directrices para la accesibilidad del material didáctico](https://ctan.org/pkg/axessibility)  
 - [https://audiofunctions.netlify.app/](https://audiofunctions.netlify.app/)
 
-**R-braile**: https://wpd.ugr.es/\~bioestad/guia-brailler/capitulo-0/ (Proyecto de Innovación Docente de la UGR)
+- **R-braile**: https://wpd.ugr.es/\~bioestad/guia-brailler/capitulo-0/ (Proyecto de Innovación Docente de la UGR)
 
-**R-sonify**: Paquete R [https://cran.r-project.org/web/packages/sonify/index.html](https://cran.r-project.org/web/packages/sonify/index.html)
+- **R-sonify**: Paquete R [https://cran.r-project.org/web/packages/sonify/index.html](https://cran.r-project.org/web/packages/sonify/index.html)
 
-**Paquete tagpdf** (https://ctan.org/pkg/tagpdf), incluido en las distribuciones recientes de LaTeX, permite producir como salida PDF accesible. Está en una versión avanzada de desarrollo y se puede utilizar ya en la versión de este año de LaTeX.
+- **Paquete tagpdf** (https://ctan.org/pkg/tagpdf), incluido en las distribuciones recientes de LaTeX, permite producir como salida PDF accesible. Está en una versión avanzada de desarrollo y se puede utilizar ya en la versión de este año de LaTeX.
 
-**MathJax speech converter**: https://mathjax.github.io/MathJax-demos-web/speech-generator/convert-with-speech.html
+- **MathJax speech converter**: https://mathjax.github.io/MathJax-demos-web/speech-generator/convert-with-speech.html
 
 #### Material
 
