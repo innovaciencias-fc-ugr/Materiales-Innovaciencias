@@ -24,8 +24,6 @@ La [NCG111/4: Normativa para la atención al estudiantado con discapacidad y otr
 * Discapacidad orgánica: https://viics.ugr.es/areas/inclusion/recursos/neae/guias/discapacidad-organica  
 * Dificultades específicas del aprendizaje: https://viics.ugr.es/areas/inclusion/recursos/neae/guias/dificultades-especificas-del-aprendizaje  
 * Altas capacidades intelectuales: https://viics.ugr.es/areas/inclusion/recursos/neae/guias/altas-capacidades-intelectuales  
-  
-
 
 **Otros documentos:**  
 **Dislexia:** 
@@ -133,11 +131,15 @@ Un ejemplo de uso de Atkinson Hyperlegible en apuntes [https://pedritomelenas.gi
 
 ### Temática 5: Otras NEAEs de carácter sexual y de género
 
+Se ha generado una [guía](Protocolo_acoso_identidad_orientacion_sexual.md) para la actuación contra el acoso por identidad u orientación sexual en la UGR. También se ha elaborado un [documento](Crear_espacios_seguros.md) con recomendaciones para crear un ambiente seguro para diversidades LGTBI+ en el entorno universitario desde el rol docente.
+
+#### Recursos 
+
 - [Recursos](https://dge.ugr.es/informacion/noticias/servicios-lgbtiq-la-ugr) LGBTIQ+ en la UGR
 
 - Oficina de Prevención y Respuesta ante el Acoso ([OPRA](https://www.ugr.es/info/perfiles/estudiantes/atencion-social-igualdad-inclusion-sostenibilidad/igualdad-prevencion-respuesta-acoso)) de la Universidad de Granada
 
-
+- [Reglamento de convivencia](https://www.ugr.es/universidad/normativa/ncg1931-reglamento-convivencia-universidad-granada-regimen-disciplinario-su-estudiantado) de la Universidad de Granada
 
 ### Temática 6: NEAE visuales
 
