@@ -133,6 +133,11 @@ Un ejemplo de uso de Atkinson Hyperlegible en apuntes [https://pedritomelenas.gi
 
 ### Temática 5: Otras NEAEs de carácter sexual y de género
 
+- [Recursos](https://dge.ugr.es/informacion/noticias/servicios-lgbtiq-la-ugr) LGBTIQ+ en la UGR
+
+- Oficina de Prevención y Respuesta ante el Acoso ([OPRA](https://www.ugr.es/info/perfiles/estudiantes/atencion-social-igualdad-inclusion-sostenibilidad/igualdad-prevencion-respuesta-acoso)) de la Universidad de Granada
+
+
 
 ### Temática 6: NEAE visuales
 
