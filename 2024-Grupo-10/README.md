@@ -6,3 +6,6 @@
 ChatGPT en Docencia, de José López Molina.
 
 - [Presentación](20250401_Presentación_MisestudIAntesusanIA_RafaelVázquezConejo.pdf) *Mis estudIAntes usan IA*, de Rafael Vázquez Conejo
+
+- [Presentación](20250423_Presentación_RecomendacionesIA_RocíoRomeroZaliz.pdf) de Rocío Romero Zaliz sobre Recomendaciones para el
+uso responsable de la IA
