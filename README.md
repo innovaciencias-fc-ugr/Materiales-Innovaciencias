@@ -26,7 +26,7 @@ En este repositorio, con el fin de dar visibilidad y utilidad a los materiales g
 - Grupo 6: Creación de material docentes
 - Grupo 7: [Inclusión, diversidad y sostenibilidad](2024-Grupo-7/README.md)
 - Grupo 8: [Proyectos interdisciplinares](2024-Grupo-8/README.md)
-- Grupo 9: Gestión docente e internacionalización
+- Grupo 9: [Gestión docente e internacionalización](2024-Grupo-9/README.md)
 - Grupo 10: [Inteligencia artificial generativa en la docencia](2024-Grupo-10/README.md)
 - Grupo 11: [Experiencias en proyectos de innovación docente](2024-Grupo-11/README.md)
 
