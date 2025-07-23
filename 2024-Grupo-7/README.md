@@ -45,17 +45,17 @@ Se propone el uso de una [plantilla](Plantilla_convocatoria_examen.docx) de conv
 
 **Enlaces de interés:**
 
-https://ve.ugr.es/secretariados-y-unidades/orientacion
+- https://ve.ugr.es/secretariados-y-unidades/orientacion
 
-https://ve.ugr.es/servicios/atencion-social
+- https://ve.ugr.es/servicios/atencion-social
 
-https://ve.ugr.es/secretariados-y-unidades/orientacion/recursos/coleccion-temas
+- https://ve.ugr.es/secretariados-y-unidades/orientacion/recursos/coleccion-temas
 
-https://ve.ugr.es/servicios/atencion-social/estudiantes-con-discapacidad
+- https://ve.ugr.es/servicios/atencion-social/estudiantes-con-discapacidad
 
-https://viics.ugr.es/areas/inclusion/recursos/neae/guias
+- https://viics.ugr.es/areas/inclusion/recursos/neae/guias
 
-https://www.lecturafacil.net/es/
+- https://www.lecturafacil.net/es/
 
 
 ### Temática 3: Materiales y herramientas para la enseñanza
