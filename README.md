@@ -1,7 +1,10 @@
-# Materiales del grupo Innovaciencias
-En este repositorio, con el fin de dar visibilidad y utilidad a los materiales generados en el grupo docente 'Innovaciencias', se pueden encontrar el material generado por los distintos grupos que componen Innovaciencias. Es posible encontrar una carpeta por cada subgrupo, en la cual puede consultar el material aportado por el mismo.
+## Materiales del grupo Innovaciencias
 
-Los grupos  de la edición 2022/23 son los siguientes:
+<!-- LTeX: language=es -->
+
+En este repositorio, con el fin de dar visibilidad y utilidad a los materiales generados en el equipo docente '[Innovaciencias](https://innovaciencias-fc-ugr.github.io/)', se pueden encontrar el material generado por los distintos grupos que este equipo. Hay una carpeta por cada subgrupo, en la cual puede consultar el material aportado por el mismo.
+
+### Los grupos  de la edición 2022/23 son los siguientes:
 
 - [Grupo 1: Gamificación](./Grupo1_Gamificacion)
 - [Grupo 2: Innovación en metodologías](./Grupo2_Innovacion_en_metodologias)
@@ -13,7 +16,7 @@ Los grupos  de la edición 2022/23 son los siguientes:
 - [Grupo 8: Inclusión, sostenibilidad y evaluación docente](./Grupo8_Inclusion_sostenibilidad_y_evaluacion_docente)
 - [Grupo 9: Proyectos interdisciplinares](./Grupo9_Proyectos_interdisciplinares)
 
-Los grupos de trabajo de la edición 2024/25 son:
+### Los grupos de trabajo de la edición 2024/25 son:
 
 - Grupo 1: [Gamificación, escape room educativa](2024-Grupo-1/README.md)
 - Grupo 2: Metodologías para grupos grandes
