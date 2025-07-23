@@ -1,0 +1,14 @@
+## Enlaces y guías
+
+###  [Shool Break](http://www.school-break.eu/) 
+
+- [el uso de escape rooms en la enseñanza]((http://www.school-break.eu/wp-content/uploads/2021/07/Framework-School-Break_1.pdf))
+
+- [diseño de escape rooms educativos](http://www.school-break.eu/wp-content/uploads/2021/07/Framework-School-Break_2.pdf)
+
+- [aprender diseñando escape rooms](https://openaccess.uoc.edu/server/api/core/bitstreams/b2b5e45a-a279-45ad-98ea-01f0c12fdf7a/content)
+
+### Trabajos del equipo
+
+- [Implementación de técnicas de Gamificación en la práctica
+docente en asignaturas de Ciencias e Ingeniería](https://produccioncientifica.ugr.es/documentos/66f2fe461455055e5ff84787)
