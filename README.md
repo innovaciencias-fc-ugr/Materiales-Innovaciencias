@@ -15,16 +15,16 @@ Los grupos  de la edición 2022/23 son los siguientes:
 
 Los grupos de trabajo de la edición 2024/25 son:
 
-- Grupo 1: Gamificación, escape room educativa
+- Grupo 1: [Gamificación, escape room educativa](2024-Grupo-1/README.md)
 - Grupo 2: Metodologías para grupos grandes
-- Grupo 3: Metodologías activas
-- Grupo 4: Metodologías para trabajos de fin de grado y máster
-- Grupo 5: Aula invertida
+- Grupo 3: [Metodologías activas](2024-Grupo-3/README.md)
+- Grupo 4: [Metodologías para trabajos de fin de grado y máster](2024-Grupo-4/README.md)
+- Grupo 5: [Aula invertida](2024-Grupo-5/README.md) 
 - Grupo 6: Creación de material docentes
-- Grupo 7: Inclusión, diversidad y sostenibilidad
-- Grupo 8: Proyectos interdisciplinares
+- Grupo 7: [Inclusión, diversidad y sostenibilidad](2024-Grupo-7/README.md)
+- Grupo 8: [Proyectos interdisciplinares](2024-Grupo-8/README.md)
 - Grupo 9: Gestión docente e internacionalización
-- Grupo 10: Inteligencia artificial generativa en la docencia
-- Grupo 11: Experiencias en proyectos de innovación docente
+- Grupo 10: [Inteligencia artificial generativa en la docencia](2024-Grupo-10/README.md)
+- Grupo 11: [Experiencias en proyectos de innovación docente](2024-Grupo-11/README.md)
 
 También puede visitar la web del grupo en [innovaciencias-fc-ugr.github.io](https://innovaciencias-fc-ugr.github.io/) para más información.
