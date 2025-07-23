@@ -143,6 +143,12 @@ Se ha generado una [guía](Protocolo_acoso_identidad_orientacion_sexual.md) para
 
 ### Temática 6: NEAE visuales
 
-- [Programa de intervención social hacia estudiantes con discapacidad o NEAE](https://ve.ugr.es/servicios/atencion-social/estudiantes-con-discapacidad)
+El alumnado con discapacidad visual es un alumnado NEE (Necesidades educativas especiales que implican discapacidades, en este caso, discapacidad visual). 
+
 - [Enlace para realizar solicitud como estudiante NEE/NEAE]( https://sede.ugr.es/procs/Asistencia-estudiantil-Apoyos-y-adaptaciones-para-estudiantes-con-discapacidad-NEAE/)
 
+- [Programa de intervención social hacia estudiantes con discapacidad o NEAE](https://ve.ugr.es/servicios/atencion-social/estudiantes-con-discapacidad)
+
+- [Orientaciones para facilitar la inclusión de personas con discapacidad en la comunidad universitaria](https://editorial.ugr.es/ebook/123986/free_download/), eug, 2015, dirigido por Mª Tamara Polo Sánchez
+
+- [Guía para la atención a los estudiantes con discapacidad y otras necesidades específicas de apoyo educativo (NEAE)](https://ve.ugr.es/sites/vic/ve/public/ficheros/extendidas/2019-03/Documento%2010%20%28GUIAS%20NEAE%202016-2017%29.pdf), del Servicio de Asistencia Estudiantil de la UGR
