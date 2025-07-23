@@ -1,8 +1,6 @@
-## Enlaces y guías
-
 ###  [Shool Break](http://www.school-break.eu/) 
 
-- [el uso de escape rooms en la enseñanza]((http://www.school-break.eu/wp-content/uploads/2021/07/Framework-School-Break_1.pdf))
+- [el uso de escape rooms en la enseñanza]((http://www.school-break.eu/wp-content/uploads/2021/07/Framework-School-Break_1.pdf)
 
 - [diseño de escape rooms educativos](http://www.school-break.eu/wp-content/uploads/2021/07/Framework-School-Break_2.pdf)
 
