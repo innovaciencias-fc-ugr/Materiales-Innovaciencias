@@ -116,6 +116,10 @@ format:
 ---  
 ````
 
+#### Plantilla en word
+
+En este [enlace](Examen-word.docx) se puede descargar la plantilla en formato Word; hace falta instalar la fuente Atkinson Hyperlegible para que se muestre correctamente.
+
 ##### Apuntes con tipo de letra legible
 
 Un ejemplo de uso de Atkinson Hyperlegible en apuntes [https://pedritomelenas.github.io/Algebra-Lineal/](https://pedritomelenas.github.io/Algebra-Lineal/)
