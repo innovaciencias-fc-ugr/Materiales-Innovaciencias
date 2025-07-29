@@ -134,8 +134,12 @@ Un ejemplo de uso de Atkinson Hyperlegible en apuntes [https://pedritomelenas.gi
 
 ### Temática 5: Otras NEAEs de carácter sexual y de género
 
-Se ha generado una [guía](Protocolo_acoso_identidad_orientacion_sexual.md) para la actuación contra el acoso por identidad u orientación sexual en la UGR. También se ha elaborado un [documento](Crear_espacios_seguros.md) con recomendaciones para crear un ambiente seguro para diversidades LGTBI+ en el entorno universitario desde el rol docente.
+- Se ha generado una [guía](Protocolo_acoso_identidad_orientacion_sexual.md) para la actuación contra el acoso por identidad u orientación sexual en la UGR. 
+- También se ha elaborado un [documento](Crear_espacios_seguros.md) con recomendaciones para crear un ambiente seguro para diversidades LGTBI+ en el entorno universitario desde el rol docente.
+- Se ha creado un [documento](aplicacion-UDL-NEAE-sexual-genero.pdf) con ejemplos concretos de aplicación del Diseño Universal para el Aprendizaje para estudiantes NEAE de carácter sexual y de género.
 
+- En este otro [documento](Ejemplos-CRT-NEAE-sexual-genero.pdf) se muestran ejemplos concretos de prácticas de Enseñanza Culturalmente Receptiva (CRT) orientadas específicamente a estudiantes con NEAE por diversidad sexual y de género
+ 
 #### Recursos 
 
 - [Recursos](https://dge.ugr.es/informacion/noticias/servicios-lgbtiq-la-ugr) LGBTIQ+ en la UGR
