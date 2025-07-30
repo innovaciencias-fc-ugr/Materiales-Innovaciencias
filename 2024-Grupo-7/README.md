@@ -140,6 +140,8 @@ Un ejemplo de uso de Atkinson Hyperlegible en apuntes [https://pedritomelenas.gi
 
 - En este otro [documento](Ejemplos-CRT-NEAE-sexual-genero.pdf) se muestran ejemplos concretos de prácticas de Enseñanza Culturalmente Receptiva (CRT) orientadas específicamente a estudiantes con NEAE por diversidad sexual y de género
  
+- Finalmente se ha creado una [*guia practica para la inclusión de la perspectiva de diversidad sexual y de género en las actividades docentes de la facultad de ciencias de la Universidad de Granada*](guia-tematica-5.pdf), redactada por el grupo de trabajo de la temática 5.
+
 #### Recursos 
 
 - [Recursos](https://dge.ugr.es/informacion/noticias/servicios-lgbtiq-la-ugr) LGBTIQ+ en la UGR
