@@ -46,8 +46,6 @@ Se propone el uso de una [plantilla](Plantilla-Convocatoria-UNICA-Examen-Ciencia
 
 - https://ve.ugr.es/servicios/atencion-social
 
-- https://ve.ugr.es/secretariados-y-unidades/orientacion/recursos/coleccion-temas
-
 - https://ve.ugr.es/servicios/atencion-social/estudiantes-con-discapacidad
 
 - https://viics.ugr.es/areas/inclusion/recursos/neae/guias
