@@ -40,11 +40,9 @@ La [NCG111/4: Normativa para la atención al estudiantado con discapacidad y otr
 
 ### Temática 2: Enseñanza general versus específica
 
-Se propone el uso de una [plantilla](Plantilla_convocatoria_examen.docx) de convocatoria de examen que tenga en cuenta las necesidades específicas de cada estudiante (es necesario tener instalada la fuente Atkinson Hyperlegible). 
+Se propone el uso de una [plantilla](Plantilla-Convocatoria-UNICA-Examen-Ciencias.docx) de convocatoria de examen que tenga en cuenta las necesidades específicas de cada estudiante (es necesario tener instalada la fuente Atkinson Hyperlegible). 
 
 **Enlaces de interés:**
-
-- https://ve.ugr.es/secretariados-y-unidades/orientacion
 
 - https://ve.ugr.es/servicios/atencion-social
 
