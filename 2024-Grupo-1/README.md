@@ -2,6 +2,8 @@
 
 [Presentación](Presentacion_GamificacionEscape_2025_David.pdf) de David Carmona sobre la La Gamificación en la Docencia Universitaria
 
+[Manual](manual_24_25_v3-peq.pdf) con la mitología creada para la docencia en el curso 2024-25. El directorio [cartas](cartas) contiene las cartas que se han usado en esa mitología.
+
 ###  [Shool Break](http://www.school-break.eu/) 
 
 - [el uso de escape rooms en la enseñanza]((http://www.school-break.eu/wp-content/uploads/2021/07/Framework-School-Break_1.pdf)
