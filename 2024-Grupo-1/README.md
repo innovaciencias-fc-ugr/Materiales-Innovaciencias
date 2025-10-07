@@ -2,7 +2,7 @@
 
 [Presentación](Presentacion_GamificacionEscape_2025_David.pdf) de David Carmona sobre la La Gamificación en la Docencia Universitaria
 
-[Presentación](Presentacion Escape Room Virtual.pdf) de Pedro Manuel Martínez Jiménez, profesor del Departamento de Lenguajes y Sistemas Informáticos (E.T.S. de Ingenierías Informática y de Telecomunicación) sobre el desarrollo de escape rooms virtuales usando PRADO. 
+[Presentación](Presentacion\%20Escape\%20Room\%20Virtual.pdf) de Pedro Manuel Martínez Jiménez, profesor del Departamento de Lenguajes y Sistemas Informáticos (E.T.S. de Ingenierías Informática y de Telecomunicación) sobre el desarrollo de escape rooms virtuales usando PRADO. 
 
 ###  [Shool Break](http://www.school-break.eu/) 
 
