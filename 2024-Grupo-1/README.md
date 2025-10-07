@@ -2,7 +2,7 @@
 
 [Presentación](Presentacion_GamificacionEscape_2025_David.pdf) de David Carmona sobre la La Gamificación en la Docencia Universitaria
 
-[Manual](manual_24_25_v3-peq.pdf) con la mitología creada para la docencia en el curso 2024-25. El directorio [cartas](cartas) contiene las cartas que se han usado en esa mitología.
+[Presentación](Presentacion Escape Room Virtual.pdf) de Pedro Manuel Martínez Jiménez, profesor del Departamento de Lenguajes y Sistemas Informáticos (E.T.S. de Ingenierías Informática y de Telecomunicación) sobre el desarrollo de escape rooms virtuales usando PRADO. 
 
 ###  [Shool Break](http://www.school-break.eu/) 
 
@@ -16,3 +16,5 @@
 
 - [Implementación de técnicas de Gamificación en la práctica
 docente en asignaturas de Ciencias e Ingeniería](https://produccioncientifica.ugr.es/documentos/66f2fe461455055e5ff84787)
+
+[Manual](manual_24_25_v3-peq.pdf) con la mitología creada para la docencia en el curso 2024-25. El directorio [cartas](cartas) contiene las cartas que se han usado en esa mitología.
