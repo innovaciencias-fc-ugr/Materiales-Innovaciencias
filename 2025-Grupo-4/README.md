@@ -1,6 +1,10 @@
+# Creación de materiales docentes
+
 El fichero [tutorial-markdown.md](tutorial-markdown.md) es un pequeño tutorial sobre el uso de markdown. 
 
 La carpeta `documento simple de quarto` contiene un ejemplo de documento sencillo hecho con quarto.
+
+En el repositorio [pruebas-quarto](https://github.com/cursos-0-fc-ugr/pruebas-quarto) hay varios ejemplos de cómo hacer questionarios usando quarto y otras herramientas como quizdown, h5p, jupyterquiz, surveyjs.
 
 Algunos ejemplos de proyectos con quarto:
 
