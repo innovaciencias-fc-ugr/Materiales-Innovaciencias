@@ -1,0 +1,217 @@
+---
+title: Esto es una prueba
+#title-block-banner: true
+format: 
+  html: default
+  pdf: default
+author: 
+  name: "Los asistentes"
+  affiliation: "Universidad de Granada"
+date: today
+lang: es
+page-layout: full
+language:
+  es:
+    title-block-author-single: "Autores"
+output-file: index
+---
+
+## Introducción {#sec-introduccion}
+
+
+Los ficheros en quarto pueden tener varias extensiones, pero los específicos de quarto son ficheros `.qmd`. 
+
+Se puede escribir en markdown con algunas características especiales.
+
+Para empezar a trabajar hay que instalar [quarto](https://quarto.org/), y es recomendable instalar la correspondiente [extensión](https://marketplace.visualstudio.com/items?itemName=quarto.quarto) en [vscode](https://code.visualstudio.com/).
+
+Una vez instalado quarto podemos crear proyectos o páginas a partir de proyectos desde la línea de comandos (con por ejemplo `quarto preview` o `quarto render`) o desde vscode. 
+
+En vscode pulsando `cmd+may+p` y tecleando `quarto` aparecerán muchas opciones relacionadas con quarto. Vamos a empezar por la más sencilla, la de crear un documento, que crea un documento con una cabecera como la de este fichero.
+
+En esa cabecera podemos ir añadiendo campos, como autor, fecha, afiliación, si queremos tabla de contenidos, y muchas más opciones.
+
+## Algunas características propias de quarto
+
+### Bloques
+
+En quarto se puede estructurar la información en bloques, que van delimitados por `:::` o más `:` si queremos anidar distintos bloques. Veremos ejemplos. a lo largo de este tutorial.
+
+### Centrando contenido
+
+Podemos usar [`<center>`]{#center}
+
+```html
+<center>
+Esto está centrado
+</center>
+```
+
+<center>
+Esto está centrado
+</center>
+
+O bien un bloque 
+
+```html
+::: {style="text-align:center;"}
+Centrado
+:::
+```
+
+::: {style="text-align:center;"}
+Centrado
+:::
+
+
+### Columnas
+
+Empezamos un entorno con `{.columns}` y luego cada columna con un entorno `{.column}`. 
+
+:::: {.columns}
+::: {.column}
+Una columna
+:::
+::: {.column}
+Otra columna 
+:::
+::::
+
+Podemos especificar el ancho de cada columna, por ejemplo con `{.column width="20%"}`.
+
+### Imágenes
+
+Las imágenes se pueden insertar igual que en markdown, y al hacerlo, se crea una figura. El pie de foto, o leyenda, es el texto que viene entre corchetes. Las opciones van entre paréntesis.
+
+Por ejemplo,
+
+```markdown
+![Logo de la facultad](logo-ciencias.svg){width=20% fig-align="left" fig-alt="El logo de la facultad de ciencias" .lightbox #logo-ciencias}
+```
+
+produce
+
+![Logo de la facultad](logo-ciencias.svg){width=20% fig-align="left" fig-alt="El logo de la facultad de ciencias" .lightbox #fig-logo-ciencias}
+
+O podemos combinar con centrado, produciendo
+
+::: {style="text-align:center;"}
+![Logo de la facultad](logo-ciencias.svg){width=20%}
+:::
+
+
+### Bloques de llamada de atención
+
+Por defecto hay cinco tipos de [llamadas](https://quarto.org/docs/authoring/callouts.html)
+
+- note
+- warning
+- important
+- tip
+- caution
+
+Y se invocan en un bloque añadiendo `{.callout-tipo}`. 
+
+::: {.callout}
+
+Prueba de `callout` a secas
+
+:::
+
+
+Se pueden añadir distintas opciones.
+
+:::: {.callout-note title="Una nota" collapse="true" icon="false"}
+Esto es una nota "enrollable".
+
+Se pueden anidar
+
+::: {.callout-tip}
+Prueba de `callout` a secas
+:::
+
+::::
+
+### Referencias cruzadas
+
+Enlazo [aqui](#center)
+
+O bien usando la sintaxis `@tipo-etiqueta`:  @fig-logo-ciencias o bien imagen [-@fig-logo-ciencias]
+
+@sec-introduccion
+
+
+### Ocultando elementos dependiendo del tipo de documento
+
+Podemos crear varios formatos del mismo documento precisándolo en la cabecera o bien usando 
+
+```bash
+quarto render fichero.qmd --to pdf
+```
+
+Con el [contenido condicionado](https://quarto.org/docs/authoring/conditional.html) podemos decirle a quarto qué contenido usar del documento dependiendo del tipo de documento que queramos.
+
+La sintaxis para bloques enteros es 
+
+```markdown
+::: {.content-visible when-format="html"}
+
+Sólo aparecerá si el documento es html.
+
+:::
+```
+
+Para texto en línea usamos corchetes y luego entre llaves indicamos la condición.
+
+```markdown
+Some text
+[en html.]{.content-visible when-format="html"}
+[en PDF.]{.content-visible when-format="pdf"}
+```
+
+
+### Usando entornos virtuales
+
+Hay varias formas de generar automáticamente figuras y salidas de código en python y R. Para ello tenemos que estar en un entorno del lenguaje de programación a usar. El lenguaje se especifica usando llaves.
+
+
+```{{python}}
+print("Hola mundo")
+```
+
+También podemos utilizar [Observable JS](https://quarto.org/docs/interactive/ojs/). Por ejemplo,
+
+::: {.content-visible when-format="html"}
+
+```{ojs}
+JXG = require("jsxgraph@1.12.2")
+board_ee = JXG.JSXGraph.initBoard('jxgboxee', {boundingbox: [-15, 5, 15, -5], axis: true, keepaspectratio: true});
+fn= board_ee.create("functiongraph",["x*sin(x)"]);
+1+1;
+```
+
+<!--<div id="jxgboxee" class="jxgbox" style="width: 550px;height:350px; border: 0px solid black;"></div>-->
+
+Y si creamos el entorno adecuado para que se inyecte la gráfica
+```
+:::{.jxbox #jxgboxee style="width:50%;height:350px;"}
+
+:::
+```
+
+obtenemos
+<center>
+:::{.jxbox #jxgboxee style="width: 50%;height:350px;text-align:center;"}
+
+:::
+</center>
+
+:::
+
+::: {.content-visible when-format="pdf"}
+
+```{ojs}
+1+1;
+```
+
+:::
