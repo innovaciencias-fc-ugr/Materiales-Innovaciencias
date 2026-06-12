@@ -4,6 +4,8 @@ El fichero [tutorial-markdown.md](tutorial-markdown.md) es un pequeño tutorial 
 
 La carpeta `documento simple de quarto` contiene un ejemplo de documento sencillo hecho con quarto.
 
+La [presentación](presentacion-quarto-probabilidad.pdf) de Ana García Burgos presenta una guía práctica para empezar desde cero con R y quarto.
+
 En el repositorio [pruebas-quarto](https://github.com/cursos-0-fc-ugr/pruebas-quarto) hay varios ejemplos de cómo hacer questionarios usando quarto y otras herramientas como quizdown, h5p, jupyterquiz, surveyjs.
 
 Algunos ejemplos de proyectos con quarto:
