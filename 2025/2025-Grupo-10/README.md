@@ -15,7 +15,7 @@ Jornadas realizadas dentro del EDDU [Innova-Ciencias](https://fciencias.ugr.es/i
 
 11:30 Desirée Romero, *Creación y adaptación de materiales para el uso de Escape Room como herramienta en el aula en titulaciones científico-técnicas mediante el uso de los recursos disponibles en el Bibliomaker (Ciencias) de la UGR*  
 
-17:00 David Blanco, *Adaptación a la LOMLOE de los cursos 0 de la Facultad de Ciencias*
+17:00 David Blanco, [*Adaptación a la LOMLOE de los cursos 0 de la Facultad de Ciencias*](Cursos_0.pdf)
 
 17:30 José Rafael Morillas Medina, *Implementación digital de fenómenos físicos en el Grado en Edificación*
 
