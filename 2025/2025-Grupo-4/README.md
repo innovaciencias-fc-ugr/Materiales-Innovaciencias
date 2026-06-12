@@ -6,7 +6,7 @@ La carpeta `documento simple de quarto` contiene un ejemplo de documento sencill
 
 La [presentación](presentacion-quarto-probabilidad.pdf) de Ana García Burgos presenta una guía práctica para empezar desde cero con R y quarto.
 
-Juan José Nieto y Óscar Sánchez han preparado un [documento de trabajo](documento-de-trabajo.md) con ideas para la creación de materiales docentes cuadernos de jupyter y quarto. El [tutorial de python](intro-python.md) es un ejemplo de ello.
+Juan José Nieto y Óscar Sánchez han preparado un [documento de trabajo](documento-de-trabajo.md) con ideas para la creación de materiales docentes cuadernos de jupyter y quarto. Este [tutorial de python](intro-python.md) para métodos numéricos es un ejemplo de ello.
 
 En el repositorio [pruebas-quarto](https://github.com/cursos-0-fc-ugr/pruebas-quarto) hay varios ejemplos de cómo hacer questionarios usando quarto y otras herramientas como quizdown, h5p, jupyterquiz, surveyjs.
 
