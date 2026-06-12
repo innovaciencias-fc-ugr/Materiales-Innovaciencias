@@ -21,4 +21,4 @@ Jornadas realizadas dentro del EDDU [Innova-Ciencias](https://fciencias.ugr.es/i
 
 18:00 Álvaro Fernández Ochoa, *Integración de entornos virtuales de código abierto para la enseñanza innovadora de las técnicas cromatográficas y la espectrometría de masas*
 
-11:00 Alberto D. Pérez López, *Digitalización y puesta en valor de una colección de rocas para la docencia sobre la evolución de facies y microfacies a lo largo del tiempo geológico*  
+11:00 Alberto D. Pérez López, [*Digitalización y puesta en valor de una colección de rocas para la docencia sobre la evolución de facies y microfacies a lo largo del tiempo geológico*](Proyecto_DIDROCS.pdf)
