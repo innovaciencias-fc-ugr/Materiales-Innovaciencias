@@ -17,8 +17,8 @@ Jornadas realizadas dentro del EDDU [Innova-Ciencias](https://fciencias.ugr.es/i
 
 17:00 David Blanco, [*Adaptación a la LOMLOE de los cursos 0 de la Facultad de Ciencias*](Cursos_0.pdf)
 
-17:30 José Rafael Morillas Medina, *Implementación digital de fenómenos físicos en el Grado en Edificación*
+17:30 José Rafael Morillas Medina, [*Implementación digital de fenómenos físicos en el Grado en Edificación*](PID25_73.pdf)
 
-18:00 Álvaro Fernández Ochoa, *Integración de entornos virtuales de código abierto para la enseñanza innovadora de las técnicas cromatográficas y la espectrometría de masas*
+18:00 Álvaro Fernández Ochoa, [*Integración de entornos virtuales de código abierto para la enseñanza innovadora de las técnicas cromatográficas y la espectrometría de masas*](JornadasPIDCiencias_Alvaro.pdf)
 
 11:00 Alberto D. Pérez López, [*Digitalización y puesta en valor de una colección de rocas para la docencia sobre la evolución de facies y microfacies a lo largo del tiempo geológico*](Proyecto_DIDROCS.pdf)
