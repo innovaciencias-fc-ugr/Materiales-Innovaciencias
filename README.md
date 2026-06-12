@@ -24,6 +24,8 @@ En este repositorio, con el fin de dar visibilidad y utilidad a los materiales g
 
 ### Los materiales de la edición 2025/26 son:
 
+- Grupo 1: [Gamificación, escape room educativa](2025/2025-Grupo-1/README.md)
+- Grupo 2: [Metodologías activas](2025/2025-Grupo-2/README.md)
 - Grupo 4: [Creación de material docente](2025/2025-Grupo-4/README.md)
 - Grupo 5: [Inclusión, diversidad y bienestar](2025/2025-Grupo-5/README.md)
 - Grupo 10: [Jornada de proyectos de innovación docente](2025/2025-Grupo-10/README.md)
