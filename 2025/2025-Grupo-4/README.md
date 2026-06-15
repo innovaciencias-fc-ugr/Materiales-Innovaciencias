@@ -4,7 +4,7 @@ El fichero [tutorial-markdown.md](tutorial-markdown.md) es un pequeño tutorial 
 
 La carpeta `documento simple de quarto` contiene un ejemplo de documento sencillo hecho con quarto.
 
-La [presentación](presentacion-quarto-probabilidad.pdf) de Ana García Burgos presenta una guía práctica para empezar desde cero con R y quarto.
+La [presentación](presentacion-quarto-probabilidad.pdf) de Ana García Burgos presenta una guía práctica para empezar desde cero con R y quarto. El resultado se pude ver [aquí](http://cursos-0-fc-ugr.github.io/Matematicas-2026/Probabilidad/03-probabilidad.html).
 
 Juan José Nieto y Óscar Sánchez han preparado un [documento de trabajo](documento-de-trabajo.md) con ideas para la creación de materiales docentes cuadernos de jupyter y quarto. Este [tutorial de python](intro-python.md) para métodos numéricos es un ejemplo de ello.
 
