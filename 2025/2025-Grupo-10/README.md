@@ -13,7 +13,7 @@ Jornadas realizadas dentro del EDDU [Innova-Ciencias](https://fciencias.ugr.es/i
 
 11:00 Cristina Trenzado y Juan Antonio Holgado, *Plataforma tecnológica para la orientación académica y profesional de los estudiantes de Biología*
 
-11:30 Desirée Romero, *Creación y adaptación de materiales para el uso de Escape Room como herramienta en el aula en titulaciones científico-técnicas mediante el uso de los recursos disponibles en el Bibliomaker (Ciencias) de la UGR*  
+11:30 Desirée Romero, [*Creación y adaptación de materiales para el uso de Escape Room como herramienta en el aula en titulaciones científico-técnicas mediante el uso de los recursos disponibles en el Bibliomaker (Ciencias) de la UGR*](PresentaciónPID-Desiree.pdf)  
 
 17:00 David Blanco, [*Adaptación a la LOMLOE de los cursos 0 de la Facultad de Ciencias*](Cursos_0.pdf)
 
