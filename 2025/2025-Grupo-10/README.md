@@ -5,7 +5,7 @@
 
 Jornadas realizadas dentro del EDDU [Innova-Ciencias](https://fciencias.ugr.es/innova-ciencias)
 
-09:00 Gustavo Rivas Gervilla y Rocío Raya Miranda, *Click & Learn: Herramientas interactivas para la enseñanza práctica de la Estadística Industrial en la docencia universitaria*
+09:00 Gustavo Rivas Gervilla y Rocío Raya Miranda, [*Click & Learn: Herramientas interactivas para la enseñanza práctica de la Estadística Industrial en la docencia universitaria*](Click_Learn.pdf)
 
 09:30 Juan Diego Ibáñez, *Proyectos de Innovación Docente del Departamento de Zoología*
 
