@@ -11,7 +11,7 @@ Jornadas realizadas dentro del EDDU [Innova-Ciencias](https://fciencias.ugr.es/i
 
 10:00 Alexandro Leverkus Fierro, *El fuego en ecosistemas mediterráneos: Puesta a prueba de una nueva práctica de ecología para el grado renovado de Ciencias Ambientales*
 
-11:00 Cristina Trenzado y Juan Antonio Holgado, *Plataforma tecnológica para la orientación académica y profesional de los estudiantes de Biología*
+11:00 Cristina Trenzado y Juan Antonio Holgado, [*Plataforma tecnológica para la orientación académica y profesional de los estudiantes de Biología*](PID-biori.pdf)
 
 11:30 Desirée Romero, [*Creación y adaptación de materiales para el uso de Escape Room como herramienta en el aula en titulaciones científico-técnicas mediante el uso de los recursos disponibles en el Bibliomaker (Ciencias) de la UGR*](PresentaciónPID-Desiree.pdf)  
 
